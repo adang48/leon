@@ -54,6 +54,15 @@
       ]
     }
   },
+	"Iamfeeling": {
+    "run": {
+      "expressions": [
+        "I am feeling happy.",
+        "I am feeling sad.",
+	"I am feeling anxious."
+      ]
+    }
+  },
 	"randomnumber": {
     "run": {
       "expressions": [
